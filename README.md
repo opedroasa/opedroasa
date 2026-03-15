@@ -2,7 +2,7 @@
 
 Me chamo `Pedro Alexandre`
 
-Sou estudante de Sistemas de Informação e desenvolvedor em formação, com foco em back-end. Tenho trabalhado principalmente com Java e Spring, desenvolvendo APIs e aplicando boas práticas de código e arquitetura. Busco constantemente evoluir tecnicamente por meio de estudos e projetos práticos.
+Desenvolvedor com foco em back-end. Tenho experiência no desenvolvimento e manutenção de sistemas corporativos utilizando C#, ASP.NET WebForms (.NET Framework) e SQL Server, trabalhando com integrações, APIs e regras de negócio. Busco evoluir constantemente por meio de estudos e projetos práticos, aprimorando minhas habilidades em desenvolvimento e arquitetura de software.
 
 ---
 
@@ -42,6 +42,14 @@ Sou estudante de Sistemas de Informação e desenvolvedor em formação, com foc
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt=".NET"
+    title=".NET" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/376369/dotnet.svg" 
 />
 <img 
     align="left" 
