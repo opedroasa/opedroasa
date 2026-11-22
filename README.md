@@ -1,124 +1,61 @@
-# Saudações 🖖
+# Olá, eu sou o Pedro 🖖
 
-Me chamo `Pedro Alexandre`
+**Desenvolvedor .NET** · C# · ASP.NET · SQL Server · React · Uberlândia, MG
 
-Desenvolvedor com foco em back-end. Tenho experiência no desenvolvimento e manutenção de sistemas corporativos utilizando C#, ASP.NET WebForms (.NET Framework) e SQL Server, trabalhando com integrações, APIs e regras de negócio. Busco evoluir constantemente por meio de estudos e projetos práticos, aprimorando minhas habilidades em desenvolvimento e arquitetura de software.
+Trabalho com sistemas ERP desde 2023: comecei no suporte N2 e na implantação e hoje sou desenvolvedor na **Gestão Rastreio**. Lá mantenho um **ERP multi-tenant usado por cerca de 50 empresas** de rastreamento veicular, em C#, ASP.NET WebForms e SQL Server. No dia a dia lido com stored procedures, módulos financeiros (boletos, faturas, conciliação, NFS-e), integrações com APIs de pagamento e de rastreamento, rotinas em Windows Service e um microsserviço de notificações em .NET 8 com RabbitMQ.
+
+Fora do trabalho, construo projetos com stack moderna: **.NET 9 com arquitetura limpa, React/TypeScript, PostgreSQL, Docker e CI/CD**.
+Bacharel em Sistemas de Informação (Anhanguera, 2026).
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Projetos em destaque
 
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET"
-    title=".NET" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/376369/dotnet.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+| Projeto | O que é | Stack |
+|---|---|---|
+| **[Commander 500](https://github.com/opedroasa/commander-500)** · [site no ar](https://fantasy500.vercel.app) | Sistema da liga de Magic: The Gathering de uma loja: sorteio de mesas, timer ao vivo, ranking e estatísticas de comandantes. Mais de 100 testes e deploy automático. | .NET 9 · EF Core · PostgreSQL · React 19 · TypeScript · Tailwind · Docker · xUnit |
+| **[Pão Fresquim](https://github.com/opedroasa/paofresquim-frontend)** ([API](https://github.com/opedroasa/paofresquim-backend)) | Sistema de gestão para padaria com PDV, estoque, fiado, relatórios e dashboard. Projeto interdisciplinar em que fui **gerente de projeto** de uma turma de 9 pessoas. | Java · Spring Boot · JPA · PostgreSQL · React · Recharts |
 
-<img 
-    align="left" 
-    alt="Microsoft SQL Server"
-    title="Microsoft SQL Server" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="JUnit"
-    title="JUnit" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
+### 🛠️ Tecnologias
+
+**Back-end**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title=".NET / ASP.NET Core" alt=".NET" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="36" height="36"/>
+</p>
+
+**Banco de dados**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL Server" alt="SQL Server" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="36" height="36"/>
+</p>
+
+**Front-end**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="36" height="36"/>
+</p>
+
+**Ferramentas**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="36" height="36"/>
+</p>
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--antonio--alexandre-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-antonio-alexandre/)
