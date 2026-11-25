@@ -2,7 +2,7 @@
 
 **Desenvolvedor .NET** · C# · ASP.NET · SQL Server · React · Uberlândia, MG
 
-Trabalho com sistemas ERP desde 2023: comecei no suporte N2 e na implantação e hoje sou desenvolvedor na **Gestão Rastreio**. Lá mantenho um **ERP multi-tenant usado por cerca de 50 empresas** de rastreamento veicular, em C#, ASP.NET WebForms e SQL Server. No dia a dia lido com stored procedures, módulos financeiros (boletos, faturas, conciliação, NFS-e), integrações com APIs de pagamento e de rastreamento, rotinas em Windows Service e um microsserviço de notificações em .NET 8 com RabbitMQ.
+Trabalho com sistemas ERP desde 2023: comecei como analista de suporte e na implantação e hoje sou desenvolvedor na **Gestão Rastreio**. Lá mantenho um **ERP multi-tenant usado por cerca de 50 empresas** de rastreamento veicular, em C#, ASP.NET WebForms e SQL Server. No dia a dia lido com stored procedures, módulos financeiros (boletos, faturas, conciliação, NFS-e), integrações com APIs de pagamento e de rastreamento, rotinas em Windows Service e um microsserviço de notificações em .NET 8 com RabbitMQ.
 
 Fora do trabalho, construo projetos com stack moderna: **.NET 9 com arquitetura limpa, React/TypeScript, PostgreSQL, Docker e CI/CD**.
 Bacharel em Sistemas de Informação (Anhanguera, 2026).
